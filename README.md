@@ -1,2 +1,2 @@
 # Machine Learning
- Making Machine Learning Algorithms Simple to Comprehend
+ Making Machine Learning Algorithms Simple to Comprehend :)
