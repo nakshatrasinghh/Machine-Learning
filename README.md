@@ -1,4 +1,4 @@
-# 🤖⚡ My Natural Language Processing Notebooks
+# 🤖⚡ My Machine Learning Notebooks
 
 Connect with me on [LinkedIn](www.linkedin.com/in/nakshatrasinghh/).
 
