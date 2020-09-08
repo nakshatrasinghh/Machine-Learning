@@ -19,7 +19,7 @@ Click <img src="https://colab.research.google.com/assets/colab-badge.svg" align=
 9 | [Iris Flower Classification with Linear Discriminant Analysis and Quadratic Discriminant Analysis](https://github.com/nakshatrasinghh/Machine-Learning/blob/master/LDA_QDA.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nakshatrasinghh/Machine-Learning/blob/master/LDA_QDA.ipynb)
 10 | [Survived or Not Survived - Titanic Dataset with 5 different ML algorithms and EDA](https://github.com/nakshatrasinghh/Machine-Learning/blob/master/EDA_Algorithm_Selection_TITANIC.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nakshatrasinghh/Machine-Learning/blob/master/EDA_Algorithm_Selection_TITANIC.ipynb)
 
-
+![]()
 
 Click on the icon to personally message me on Whatsapp for future collaborations or projects :)
 </a>
