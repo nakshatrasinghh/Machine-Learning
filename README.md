@@ -21,3 +21,11 @@ Click <img src="https://colab.research.google.com/assets/colab-badge.svg" align=
 
 
 
+Click on the icon to personally message me on Whatsapp for future collaborations or projects :)
+</a>
+<a href="https://wa.link/8bt67v">
+  <img align="left" alt="Nakshatra's Whatsapp" width="30px" src="https://image.flaticon.com/icons/svg/785/785767.svg" />
+</a>
+
+
+
