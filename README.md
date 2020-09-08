@@ -1,6 +1,6 @@
 # 🤖⚡ My Machine Learning Notebooks
 
-Connect with me on [LinkedIn](www.linkedin.com/in/nakshatrasinghh/).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/nakshatrasinghh/).
 
 👉 If you like my work, check out my other [Repositories!](https://github.com/nakshatrasinghh?tab=repositories) 👈
 
