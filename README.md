@@ -23,7 +23,7 @@ Click <img src="https://colab.research.google.com/assets/colab-badge.svg" align=
 11 | [Twitter Suicidal-Intention Prediction with Tfidf, WordCloud, SVC and LinearSVC](https://github.com/nakshatrasinghh/Machine-Learning/blob/master/Twitter_Suicidal_Prediction.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nakshatrasinghh/Machine-Learning/blob/master/Twitter_Suicidal_Prediction.ipynb)
 
 # Message Me
-Feel free to click on the icon to personally message me on Whatsapp if you have any doubt regarding the notebooks :)
+Feel free to click on the icon to personally message me on Whatsapp if you have any doubts :)
 </a>
 <a href="https://wa.link/8bt67v">
   <img align="left" alt="Nakshatra's Whatsapp" width="30px" src="https://image.flaticon.com/icons/svg/785/785767.svg" />
