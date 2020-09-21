@@ -2,6 +2,8 @@
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/nakshatrasinghh/).
 
+If you want to build something together, feel free to email me at - nakshatradsu@gmail.com :)
+
 👉 If you like my work, check out my other [Repositories!](https://github.com/nakshatrasinghh?tab=repositories) 👈
 
 Click <img src="https://colab.research.google.com/assets/colab-badge.svg" align="top"> to view the **Jupyter notebook** in Google Colab:
@@ -20,7 +22,7 @@ Click <img src="https://colab.research.google.com/assets/colab-badge.svg" align=
 10 | [Survived or Not Survived - Titanic Dataset with 5 different ML algorithms and Exploratory Data Analysis](https://github.com/nakshatrasinghh/Machine-Learning/blob/master/EDA_Algorithm_Selection_TITANIC.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nakshatrasinghh/Machine-Learning/blob/master/EDA_Algorithm_Selection_TITANIC.ipynb)
 11 | [Twitter Suicidal-Intention Prediction with Tfidf, WordCloud, SVC and LinearSVC](https://github.com/nakshatrasinghh/Machine-Learning/blob/master/Twitter_Suicidal_Prediction.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nakshatrasinghh/Machine-Learning/blob/master/Twitter_Suicidal_Prediction.ipynb)
 # Message Me
-Click on the icon to personally message me on Whatsapp for future collaborations or projects :)
+Feel free to click on the icon to personally message me on Whatsapp if you have any doubt regarding the notebooks :)
 </a>
 <a href="https://wa.link/8bt67v">
   <img align="left" alt="Nakshatra's Whatsapp" width="30px" src="https://image.flaticon.com/icons/svg/785/785767.svg" />
