@@ -1,4 +1,5 @@
 # 🤖⚡ My Machine Learning Notebooks
+[![](https://img.shields.io/badge/Nakshatra-Singh-brightgreen.svg?colorB=ff0000)](https://nakshatrasinghh-io.vercel.app/) [![](https://img.shields.io/hexpm/l/plug)](https://github.com/nakshatrasinghh/Machine-Learning/blob/master/LICENSE)
 
 Made with ❤️ by Nakshatra Singh.
 
@@ -16,7 +17,7 @@ Click <img src="https://colab.research.google.com/assets/colab-badge.svg" align=
 
 \# | Description | Link
 --- | --- | ---
-1 | [Mobile Price Classification with Decision Tree Classifier and Regressor with Tree Visualization](https://github.com/nakshatrasinghh/Machine-Learning/blob/master/Decision_Tree.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nakshatrasinghh/Machine-Learning/blob/master/Decision_Tree.ipynb)
+1 | <span style="text-align:center;">[Mobile Price Classification with Decision Tree Classifier and Regressor with Tree Visualization](https://github.com/nakshatrasinghh/Machine-Learning/blob/master/Decision_Tree.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nakshatrasinghh/Machine-Learning/blob/master/Decision_Tree.ipynb)
 2 | [Diabetes Prediction with K Nearest Neighbors Algorithm and Exploratory Data Analysis](https://github.com/nakshatrasinghh/Machine-Learning/blob/master/EDA_kNN_Classifier.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nakshatrasinghh/Machine-Learning/blob/master/EDA_kNN_Classifier.ipynb)
 3 | [Logistic Regression with Scikit-Learn](https://github.com/nakshatrasinghh/Machine-Learning/blob/master/Logistic_Regression.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nakshatrasinghh/Machine-Learning/blob/master/Logistic_Regression.ipynb)
 4 | [One Liner Machine Learning with Libra](https://github.com/nakshatrasinghh/Machine-Learning/blob/master/One_Liner_ML_LIBRA.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nakshatrasinghh/Machine-Learning/blob/master/One_Liner_ML_LIBRA.ipynb)
