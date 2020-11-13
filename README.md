@@ -1,5 +1,5 @@
 # 🤖⚡ My Machine Learning Notebooks
-[![](https://img.shields.io/badge/Nakshatra-Singh-brightgreen.svg?colorB=ff0000)](https://nakshatrasinghh-io.vercel.app/) [![](https://img.shields.io/hexpm/l/plug)](https://github.com/nakshatrasinghh/Machine-Learning/blob/master/LICENSE)
+[![](https://img.shields.io/badge/Nakshatra-Singh-brightgreen.svg?colorB=ff0000)](https://nakshatrasinghh-io.vercel.app/) [![](https://img.shields.io/hexpm/l/plug)](https://github.com/nakshatrasinghh/Machine-Learning/blob/master/LICENSE) [![](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)]()
 
 Made with ❤️ by Nakshatra Singh.
 
